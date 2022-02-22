@@ -47,13 +47,13 @@ const Header = ({ onCursor, toggleMenu, setToggleMenu, hamburgerPosition, setHam
                         onMouseEnter={() => onCursor('hovered')}
                         onMouseLeave={onCursor}
                     >
-                        <Link to='/'>FURR</Link>
+                        <Link to='/'>Sample</Link>
                         <span
                             onClick={toggleTheme}
                             onMouseEnter={() => onCursor('pointer')}
                             onMouseLeave={onCursor}
                         ></span>
-                        <Link to='/'>W</Link>
+                        <Link to='/'>Work</Link>
                     </Logo>
                     <Menu ref={hamburger} onClick={() => setToggleMenu(!toggleMenu)}
                         onMouseEnter={menuHover}

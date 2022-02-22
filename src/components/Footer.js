@@ -9,7 +9,7 @@ const Footer = ({ onCursor }) => {
             <Container>
                 <Flex spaceBetween>
                     <FooterContent>
-                        <p>0123456789</p>
+                        <p>+91-0123456789</p>
                         <p>abc@gmail.com</p>
                     </FooterContent>
                     <FooterContent wider>

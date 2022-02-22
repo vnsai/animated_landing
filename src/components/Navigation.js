@@ -129,7 +129,7 @@ const Navigation = ({ toggleMenu, setToggleMenu, onCursor }) => {
                                             <p>abc@gmail.com</p>
                                         </FooterContent>
                                         <FooterContent>
-                                            <p>0123456789</p>
+                                            <p>+91-0123456789</p>
                                         </FooterContent>
                                         <FooterSocial>
                                             <a href='/' onMouseEnter={() => onCursor('hovered')} onMouseLeave={onCursor}>
